@@ -1,6 +1,6 @@
 # 👓 📚 EduRead - Library Web Application
 
-## The application's primary functionalities revolve around book management, each having dedicated pages. Users can effortlessly add, modify, and remove books through user-friendly forms and actions. The UI emphasizes smooth operation, simplifying the process of managing and monitoring books. Moreover, the application boasts a robust reports section, enabling users to generate insightful reports based on available books. This feature empowers users to derive valuable insights, ultimately enhancing their operational efficiency.
+The application's primary functionalities revolve around book management, each having dedicated pages. Users can effortlessly add, modify, and remove books through user-friendly forms and actions. The UI emphasizes smooth operation, simplifying the process of managing  and monitoring books. Moreover, the application boasts a robust reports section, enabling users to generate insightful reports based on available books. This feature empowers users to derive valuable insights, ultimately enhancing their operational efficiency.
 
 
 ![image](https://github.com/chavez62/Library-web-app/assets/67764701/7093877b-3752-46ac-8292-3514f9290b6f)
