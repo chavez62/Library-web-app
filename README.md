@@ -7,6 +7,9 @@ The application's primary functionalities revolve around book management, each h
 + It should provide a list and detailed views of books and availability.
 + This application uses React frontend, Springboot backend, and MySQL for database
 
+![react-product-app](https://github.com/chavez62/Library-web-app/assets/67764701/cf569c3b-560f-4fc6-bc8e-a73a419da739)
+
+
 
 ![image](https://github.com/chavez62/Library-web-app/assets/67764701/7093877b-3752-46ac-8292-3514f9290b6f)
 
